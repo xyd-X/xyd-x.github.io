@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: xi1404861473@gmail.com
 description: "Every failure is leading towards success."
 keyword: "XYD, XYD Blog, 西月棟的博客, xiyuedong, 西月棟"
-url: "http://xyd_x.github.io"          # your host, for absolute URL
+url: "https://xyd_x.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xyd-X/xyd-x.github.io.git" # you code repository
 
